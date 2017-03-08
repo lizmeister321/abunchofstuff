@@ -1,5 +1,6 @@
 import requests
 import random
+#https://github.com/lizmeister321/abunchofstuff.gitfrom logins import *
 
 consonants = ('b','c','d','f','g','h','j','k','l','m','n','o','p','q','r','s','t','v','w','x','y','z')
 vowels = ('a','e','i','o','u')
