@@ -6,7 +6,7 @@ This is a list of the tools and resources I've found especially helpful since I 
 
 # BOOKS:
 * Many of the developers at my office work in **Scala**. I was having a really hard time trying to get started, since apparently no one in the Java or Scala community can remember a time when they were a beginner.
-The book ["Programming in Scala"] (https://www.amazon.com/Programming-Scala-Comprehensive-Step-Step/dp/0981531644) was written by the creator of Scala, and is (surprisingly) clear. 
+The book ["Programming in Scala"](https://www.amazon.com/Programming-Scala-Comprehensive-Step-Step/dp/0981531644) was written by the creator of Scala, and is (surprisingly) clear. 
   * There is also a [Coursera course](https://www.coursera.org/learn/progfun1) taught by the author, but don't be fooled, it is not an intro-level class.
 It presumes that you have a full grasp of Scala syntax and functional programming, which is a very different way of working than Python and other object-oriented languages.
 
@@ -14,9 +14,9 @@ It presumes that you have a full grasp of Scala syntax and functional programmin
 I haven't finished the book yet, but it is very clear and concise, and is designed to have you coding along with the book as you go. Has all the instructions for setting up your working environment too, which is always handy. 
 
 # ARTICLES:
-* A core component of our product here relies on **Graph theory**, which I do not know at all. [This article] (https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory) was a really clear jumping off point
+* A core component of our product here relies on **Graph theory**, which I do not know at all. [This article](https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory) was a really clear jumping off point
 
-* This isn't a technical article, but [Lauren Ancona's blog post] http://laurenancona.com/blog/illustration/everyones-been-winging-it-since-forever) will make you feel less alone on those days when you feel like you're the only one who doesn't get it. 
+* This isn't a technical article, but [Lauren Ancona's blog post](http://laurenancona.com/blog/illustration/everyones-been-winging-it-since-forever) will make you feel less alone on those days when you feel like you're the only one who doesn't get it. 
 
 
 # WEBSITES: 
