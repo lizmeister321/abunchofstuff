@@ -2,6 +2,8 @@ I've been learning a LOT at my new job.
 There are a seemingly endless number of "Intro to Python" or "Ruby 101" resources, but some of these intermediate-level tasks can be a bit trickier.
 This is a list of the tools and resources I've found especially helpful since I started in February 2017.
 
+**this page updated as needed. Last update 5/23/17**
+
 # BOOKS:
 * Many of the developers at my office work in **Scala**. I was having a really hard time trying to get started, since apparently no one in the Java or Scala community can remember a time when they were a beginner.
 The book ["Programming in Scala"] (https://www.amazon.com/Programming-Scala-Comprehensive-Step-Step/dp/0981531644) was written by the creator of Scala, and is (surprisingly) clear. 
