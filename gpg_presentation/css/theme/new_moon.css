@@ -110,19 +110,20 @@ body {
 
 .reveal ul {
   list-style-type: disc; }
+
 .reveal ul.clear {
-  background-color: rgb(179, 255, 179);
-  color: #000000 ;
+  background-color: rgb(76,219,255);
+  color:#000000;
   list-style-type: none; }
 
 .reveal ul.stakeholder {
-  background-color: rgb(245,140,178);
-  color: #000000 ;
+  background-color: rgb(0,203,255);
+  color: #000000;
   list-style-type: none;}
 
 .reveal ul.timeline {
-  background-color: rgb(0,160,230);
-  color: #000000 ;
+  background-color: rgb(38,109,127);
+  color: #000000;
   list-style-type: none;}
 
 .reveal ul ul {
