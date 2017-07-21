@@ -2,7 +2,7 @@ I've been learning a LOT at my new job.
 There are a seemingly endless number of "Intro to Python" or "Ruby 101" resources, but some of these intermediate-level tasks can be a bit trickier.
 This is a list of the tools and resources I've found especially helpful since I started in February 2017.
 
-**this page updated as needed. Last update 5/23/17**
+**this page updated as needed. Last update 7/21/17**
 
 # BOOKS:
 * Many of the developers at my office work in **Scala**. I was having a really hard time trying to get started, since apparently no one in the Java or Scala community can remember a time when they were a beginner.
@@ -23,3 +23,9 @@ I haven't finished the book yet, but it is very clear and concise, and is design
 
 * Despite doing a lot of address matchng work, I am pretty much garbage with **Regular Expressions**. This [series of web-based exercises](https://regexone.com/) was the closest I've come to actually understanding pattern strings.
 You can jump around or work from Lesson 1 on, so it's a good tool for practicing/testing code as well.
+
+
+* One project I'm working on requires parsing XML from a website and storing it to later feed through our Natural Language Processing (NLP) program. Alvin Alexander's blog](http://alvinalexander.com/source-code/scala-how-to-http-download-xml-rss-feed-timeout) had an easy-to-use setup to get going right away with parsing XML
+
+
+* Another resource we work with regularly in my office is **MongoDB**, which is a "NoSQL" relational database. I have only worked in SQL environments before, so i'm watching [this series of Back to Basics videos provided by MongoDB](https://resources.mongodb.com/getting-started-with-mongodb/back-to-basics-1-introduction-to-nosql) to get up to speed.
