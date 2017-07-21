@@ -18,14 +18,12 @@ I haven't finished the book yet, but it is very clear and concise, and is design
 
 * This isn't a technical article, but [Lauren Ancona's blog post](http://laurenancona.com/blog/illustration/everyones-been-winging-it-since-forever) will make you feel less alone on those days when you feel like you're the only one who doesn't get it. 
 
+* One project I'm working on requires parsing XML from a website and storing it to later feed through our Natural Language Processing (NLP) program. [Alvin Alexander's blog](http://alvinalexander.com/source-code/scala-how-to-http-download-xml-rss-feed-timeout) had an easy-to-use setup to get going right away with parsing XML
+
 
 # WEBSITES: 
 
 * Despite doing a lot of address matchng work, I am pretty much garbage with **Regular Expressions**. This [series of web-based exercises](https://regexone.com/) was the closest I've come to actually understanding pattern strings.
 You can jump around or work from Lesson 1 on, so it's a good tool for practicing/testing code as well.
-
-
-* One project I'm working on requires parsing XML from a website and storing it to later feed through our Natural Language Processing (NLP) program. Alvin Alexander's blog](http://alvinalexander.com/source-code/scala-how-to-http-download-xml-rss-feed-timeout) had an easy-to-use setup to get going right away with parsing XML
-
 
 * Another resource we work with regularly in my office is **MongoDB**, which is a "NoSQL" relational database. I have only worked in SQL environments before, so i'm watching [this series of Back to Basics videos provided by MongoDB](https://resources.mongodb.com/getting-started-with-mongodb/back-to-basics-1-introduction-to-nosql) to get up to speed.
