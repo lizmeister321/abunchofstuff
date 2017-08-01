@@ -1,0 +1,47 @@
+#Elevator dashboard
+#Needs:
+#	weight for each elevator - current weight and over/under max
+#	location of each elevator
+# 	Anything else?
+
+
+functions needed:
+
+def (weight_of_elevator,int):
+	current_weight = fromsensor..weight(elevator_x)	
+
+def (near_max):
+	current
+	
+
+def (find_elevator):
+
+
+def(uptime):
+	
+
+def(service_alert):
+
+
+
+def(service_calls_last_12_mo, x):
+	
+	x = elevator_id
+	sql(
+		select elevator_id, count(service_date) AS service_dates
+		FROM
+			(select elevator_id, service_date from service_log
+				where DATEDIFF(service_date,get_date,month) <= 12
+				group by 1, 2) y
+		group by 1 order by 1
+	)
+	
+
+
+
+for elevator in all_elevators_in_building:
+	run weight_of_elevator(x)
+	run near_max
+	run find_elevator
+	run uptime
+	run service_alert
