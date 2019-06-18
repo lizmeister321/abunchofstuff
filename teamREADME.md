@@ -1,5 +1,7 @@
 # Lizzie's Team READme
 
+![it me, a boss](https://media1.tenor.com/images/66361c70cc8c005c04364becae8c9514/tenor.gif?itemid=12316482)
+
 ### About Me/ My Job 
 My job first and foremost is to be your first line of defense to make sure y'all can do **your** job well. One of my biggest challenges is that because there's *soo* much going on all the time, smaller things may get pushed down the list to deal with Today's Crisis. Don't let me do this! I really appreciate folks who manage up. Please remind me where I'm acting as a road block instead of an assist, that's something that I assure you is never intentional! Advance planning and documentation is also really helpful here -- if I know in advance what's coming up, or if there's somewhere I can quickly catch up on what's been happening, I'll be better equiped to help out. 
 
@@ -23,7 +25,8 @@ I assume everyone comes into the workplace with best intentions. Sometimes we ha
 ## Optional Responses
 
 ### You: OOO
-Outside of work, I help run the [Code for DC Meetup](codefordc.org), a volunteer group of folks who use technical skills of all levels to help solve problems around the DC area. It's a lot of work but a lot of fun and a cool way to mix tech and do-gooderism 💻✊ I also sail on a variety of big and small boats on weekends; this summer I'll be going to an international competition in Nova Scotia! I also love old movies (I watch a ton of TCM) and board game nights with friends.
+Outside of work, I help run the [Code for DC Meetup](codefordc.org), a volunteer group of folks who use technical skills of all levels to help solve problems around the DC area. It's a lot of work but a lot of fun and a cool way to mix tech and do-gooderism 💻✊ [I also sail](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/64736094_10155990048952391_3658551828196360192_o.jpg?_nc_cat=109&_nc_oc=AQl3WNK64udIZpArMUo7CkjCewxvY-piRvZkNO2opgV3Kq2Zvw5M0EjOhYE5MEueuC4&_nc_ht=scontent-iad3-1.xx&oh=e5c449831aa38fb3bf6de2a3d38076c8&oe=5DC49715) on a variety of big and small boats on weekends; this summer I'll be going to an international competition in Nova Scotia! I also love old movies (I watch a ton of TCM) and board game nights with friends.
+I'm not doing a very good job of reading as much as I'd like, but I do like to read. I've gotten very into the public library -- they literally have everything! Lately I've been reading a fair amount of non-fiction, and I also subscribe to several email newsletters that I read religiously on Friday afternoons. 
 
 ### Things you should know about me
 I function my best when I get 8+ hours of sleep a night. I get distracted easily and want to have a good time, so sometimes I have to lock myself away in my office to make sure that I'm getting what I need to do handled. I'm not intentionally hiding from you, I just need to be able to carve out some time to get things off my plate so I can help you all with yours.   
