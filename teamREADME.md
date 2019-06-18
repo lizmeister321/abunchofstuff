@@ -12,6 +12,8 @@ I also prefer Slack for code sharing, since Slack does a nice job of formatting 
 
 To me, email is a formal communication tool. I expect project updates and requests, especially from other departments, to be handled on email. Email is also really important for those more, er, challenging projects to get everyone on the same page and document outcomes from meetings and process updates. In my eyes, email is official, Slack is conversational. 
 
+If we're talking about a scheduled event of any kind(phone call, in-person, conference), SEND A CALENDAR INVITE. I live and die off my calendar, if it's not in there, I won't remember it's happening.
+
 ### Personal Intention for Planning Day
 I'm really looking forward to hearing more about everyone's self-described work styles. As a team, we spend so much time responding to other people's reqeuests that it'll be a treat to have the day to focus on just our team and clearing space to make sure our goals don't get lost in the day-to-day.  
 
